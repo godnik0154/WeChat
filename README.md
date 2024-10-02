@@ -26,9 +26,7 @@
 - Spring Security
 - Spring REST
 - MySQL
-- H2 Database
 - JUnit
-- Mockito
 - Maven
 
 ### Frontend
